@@ -1,2 +1,2 @@
-# Cat-and-Non-Cat-classification
+# Cat-and-Non-Cat-classification Logistic Regression
 Machine learning (Logistic Regression)
